@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hendrix.L
 - 👀 I’m interested in Data Analyst and Machine learning
-- 🌱 I’m currently doing my Master degree in AI and Data science
+- 🌱 I’m currently doing my master degree in AI and Data science
 - 📫 My contact detail: lyuhanchi@gmail.com
 
 <!---
