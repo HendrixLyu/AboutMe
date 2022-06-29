@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hendrix.L
-- 👀 I’m interested in Data Analyst and Machine learning
-- 🌱 I’m currently doing my master degree in AI and Data science
+- 👀 I’m interested in FrontEnd Development and Full-stack development.
+- 🌱 I currently finish my master degree in AI and Data science
 - 📫 My contact detail: lyuhanchi@gmail.com
 
 <!---
